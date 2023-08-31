@@ -5,7 +5,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasuni23&label=Profile%20views&color=0e75b6&style=flat" alt="kasuni23" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Software Project management system<br>🌱 I’m currently learning ReactJs, NextJs, NodeJs , MongodDB, Mysql , Java<br>💬 Ask me about Mern<br>⚡ Fun fact - I am travelling and reading
+- 🔭 I’m currently working on **Software Project management system**
+
+- 🌱 I’m currently learning **ReactJs, NextJs, NodeJs , MongodDB, Mysql , Java**
+
+- 📝 I regularly write articles on [https://medium.com/@kasunimaheshika2325](https://medium.com/@kasunimaheshika2325)
+
+- 💬 Ask me about **Mern**
+
+- 📫 How to reach me **kasunimaheshika2325@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mS6T_yVkHYGNwlq8VyPPc_2h76Y9FkxK/view?usp=drive_link](https://drive.google.com/file/d/1mS6T_yVkHYGNwlq8VyPPc_2h76Y9FkxK/view?usp=drive_link)
+
+- ⚡ Fun fact **I am travelling and reading**
 
 
 ## 🌐 Socials:
