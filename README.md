@@ -3,6 +3,7 @@
 <h3 align="center">I am pursuing BSc.(Hons)Information Technology and Management Degree at University of Moratuwa at Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasuni23&label=Profile%20views&color=0e75b6&style=flat" alt="kasuni23" /> </p>
+
 # 💫 About Me:
 🔭 I’m currently working on Software Project management system<br>🌱 I’m currently learning ReactJs, NextJs, NodeJs , MongodDB, Mysql , Java<br>💬 Ask me about Mern<br>⚡ Fun fact - I am travelling and reading
 
